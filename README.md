@@ -14,7 +14,7 @@
 
 ```bash
 $ git clone https://github.com/odysseusmax/tg-index.git
-$ cd tg-index
+$ cd tg-index1
 ```
 
 * Create and activate virtual environment.
